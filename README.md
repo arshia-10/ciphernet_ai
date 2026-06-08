@@ -1,6 +1,6 @@
 # CipherNet AI
 
-## AI-Powered Unified Cyber Defense & Threat Intelligence Ecosystem
+## AI-Powered Unified Cyber Defense & Threat Intelligence Ecosystem  
 
 CipherNet AI is a next-generation AI-powered cybersecurity platform designed to protect users from modern digital threats such as phishing websites, scam SMS messages, QR frauds, fake recruiters, deepfake scams, malicious browser activity, and social engineering attacks.
 
